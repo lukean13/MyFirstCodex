@@ -1,0 +1,9 @@
+{
+  "name": "myfirstcodex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple web server that hosts a readable John 1 scripture page.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
